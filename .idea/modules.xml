@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintTimeTable/PrintTimeTable.iml" filepath="$PROJECT_DIR$/PrintTimeTable/PrintTimeTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringReverse/StringReverse.iml" filepath="$PROJECT_DIR$/StringReverse/StringReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/containsClosenums/containsClosenums.iml" filepath="$PROJECT_DIR$/containsClosenums/containsClosenums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first100FibonacciNumbers/first100FibonacciNumbers.iml" filepath="$PROJECT_DIR$/first100FibonacciNumbers/first100FibonacciNumbers.iml" />
+    </modules>
+  </component>
+</project>
