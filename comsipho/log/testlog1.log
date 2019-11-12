@@ -1,0 +1,3 @@
+2019-11-12 08:29:14,072 [main] INFO onlineBanking - URL is reached
+2019-11-12 08:29:17,305 [main] INFO onlineBanking - Login test failed
+2019-11-12 08:30:01,259 [main] INFO onlineBanking - Login passed
